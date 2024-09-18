@@ -3,6 +3,8 @@ on: push
 
 jobs:
   binder:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Code
