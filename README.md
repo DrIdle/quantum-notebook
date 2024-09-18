@@ -16,4 +16,4 @@ A qiskit-tel foglalkozó második óra:
 
 ## Kvantuminformatika és -kommunikáció:
 
-A kvantumalgoritmusok tervezése gyakorlat: [Gyakorlat anyaga](kvantuminformatik_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_algoritmusok_tervezese.ipynb)
+A kvantumalgoritmusok tervezése gyakorlat: [Gyakorlat anyaga](kvantuminformatika_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_algoritmusok_tervezese.ipynb)
