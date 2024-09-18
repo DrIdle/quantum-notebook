@@ -1,0 +1,9 @@
+name: notebbok-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - qiskit[visualization]
+    - qiskit-ibm-runtime
