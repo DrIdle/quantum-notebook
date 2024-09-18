@@ -8,7 +8,7 @@ A notebook-ok qiskit-et haszálnak, így a Juptyer Notebook vagy Lab mellett err
 
 ## Kvantumszámítógépek programozása
 
-A qiskit bevezető óra Notebook-ja:
+A qiskit bevezető óra Notebook-ja: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DrIdle/quantum-notebook/HEAD?labpath=kvantumszamitogepek_programozasa%2Fqiskit_bevezetes%2Fqiskit_intro.ipynb)
 
 A qiskit-tel foglalkozó második óra: 
 
