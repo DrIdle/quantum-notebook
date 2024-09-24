@@ -2,11 +2,11 @@
 
 Ebben a repository-ban találhatóak a különböző kvantumos tárgyak során használt Jupyter Notebook-ok. Az egyes mappákban a tárgyak nevei alatt elérhetőek az előadások vagy gyakorlatokhoz tartozó fájlok.
 
-## Használathoz szükséges követelmények
+## Használat
 
-A notebook-ok qiskit-et haszálnak, így a Juptyer Notebook vagy Lab mellett erre is szükség van. Egyes részeknél pedig a qiskit-ibm-runtime csomag is használva van.
+A notebook-ok használhatóak közvetlenül Binder-rel: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DrIdle/quantum-notebook/HEAD)
 
-A notebook-ok használhatóak közvetlenül Binder-rel is: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DrIdle/quantum-notebook/HEAD)
+Természetesen a repository önmagában is használható. A notebook-ok futtatásához szükségesek a Jupyter Notebook vagy Lab és az `environment.yaml` vagy a `requirements.txt` fájlokban felsorolt csomagok.
 
 ## Kvantumszámítógépek programozása
 
