@@ -19,3 +19,15 @@ A cirq és QVM óra: [Cirq és QVM](kvantumszamitogepek_programozasa/cirq_qvm/qv
 ## Kvantuminformatika és -kommunikáció:
 
 A kvantumalgoritmusok tervezése gyakorlat: [Gyakorlat anyaga](kvantuminformatika_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_algoritmusok_tervezese.ipynb)
+
+## Kvantuminformatikai Laboratórium
+
+Műveletek a Bloch-gömbön sablon és puska: [Sablon](kvantuminformatikai_laboratorium/bloch_cheatsheet.ipynb)
+
+Kvantumszámítógépek programozása áramköri terv alapján sablon és puska: [Sablon](kvantuminformatikai_laboratorium/qiskit_cheatsheet.ipynb)
+
+## Quantum Informatics laboratory
+
+Transformations on the Bloch Sphere template and cheatsheet: [Template](quantum_informatics_laboratory/bloch_cheatsheet.ipynb)
+
+Programming quantum computers based on circuit design template and cheatsheet: [Template](quantum_informatics_laboratory/qiskit_cheatsheet.ipynb)
