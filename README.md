@@ -18,7 +18,7 @@ A cirq és QVM óra: [Cirq és QVM](kvantumszamitogepek_programozasa/cirq_qvm/qv
 
 ## Kvantuminformatika és -kommunikáció:
 
-A kvantumalgoritmusok tervezése gyakorlat: [Gyakorlat anyaga](kvantuminformatika_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_algoritmusok_tervezese.ipynb)
+A kvantuminformatikai segédprogramok: [Gyakorlat anyaga](kvantuminformatika_es_kommunikacio/qiskit_gyakorlat/kvantuminformatikai_segedprogramok.ipynb)
 
 ## Kvantuminformatikai Laboratórium
 
