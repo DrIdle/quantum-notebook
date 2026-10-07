@@ -12,7 +12,9 @@ Természetesen a repository önmagában is használható. A notebook-ok futtatá
 
 A qiskit-tel foglalkozó óra: [Qiskit előadás](kvantumszamitogepek_programozasa/qiskit_es_ibm/qiskit_es_ibm.ipynb)
 
-Logikai áramkörtől a fizikai hardverig óra: [Qiskit_gyak](kvantumszamitogepek_programozasa/qiskit_logikai_to_fizikai/qiskit_eloadas_2_gyakorlatok.ipynb)
+Logikai áramkörtől a fizikai hardverig óra 2: [Qiskit_gyak](kvantumszamitogepek_programozasa/qiskit_logikai_to_fizikai/qiskit_eloadas_2_gyakorlatok.ipynb)
+
+Logikai áramkörtől a fizikai hardverig óra 3: [Qiskit_gyak](kvantumszamitogepek_programozasa/qiskit_logikai_to_fizikai/qiskit_eloadas_3_gyakorlatok.ipynb)
 
 A cirq bevezető óra: [Cirq bevezetés](kvantumszamitogepek_programozasa/Cirq_intro/cirq_intro_for_students.ipynb)
 
