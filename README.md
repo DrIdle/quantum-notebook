@@ -16,6 +16,8 @@ Logikai áramkörtől a fizikai hardverig óra 2: [Qiskit_gyak](kvantumszamitoge
 
 Logikai áramkörtől a fizikai hardverig óra 3: [Qiskit_gyak](kvantumszamitogepek_programozasa/qiskit_logikai_to_fizikai/qiskit_eloadas_3_gyakorlatok.ipynb)
 
+Q# bevezetés: [Q_sharp_bev](kvantumszamitogepek_programozasa/q_sharp/qsharp_elso_eloadas_peldak_es_feladatok.ipynb)
+
 A cirq bevezető óra: [Cirq bevezetés](kvantumszamitogepek_programozasa/Cirq_intro/cirq_intro_for_students.ipynb)
 
 A cirq és QVM óra: [Cirq és QVM](kvantumszamitogepek_programozasa/cirq_qvm/qvm_lab_full_for_students.ipynb)
