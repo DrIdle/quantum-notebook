@@ -2,3 +2,4 @@ qiskit[visualization]
 qiskit-ibm-runtime
 qiskit-aer
 cirq
+qdk[jupyter,qre]
